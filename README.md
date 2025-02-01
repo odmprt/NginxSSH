@@ -1,2 +1,2 @@
 # NginxSSH
-Seguridad Avanzada en Servidores: Configuración de SSH, Nginx y Protección contra Ataques
+Este proyecto documenta la implementación y configuración segura de servicios esenciales en un entorno Linux. Se incluyen medidas avanzadas de seguridad en SSH, como autenticación multifactor (2FA y 3FA) con Google Authenticator, auditoría de accesos y protección contra ataques de fuerza bruta con Fail2Ban e iptables. También se detalla la instalación y configuración de Nginx con CertBot para HTTPS, protección mediante ModSecurity con reglas OWASP-CRS y refuerzo de seguridad con Fail2Ban. Además, se han implementado tareas automatizadas con Cron para la gestión y mantenimiento del servidor.
